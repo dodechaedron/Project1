@@ -1488,7 +1488,7 @@ a.full_link{
 
 .neoh_fn_content{
 	position: relative;
-	z-index: 2;
+	z-index: 1;
 	background-color: var(--sbc);
 }
 /* Footer */
